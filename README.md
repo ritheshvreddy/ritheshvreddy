@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rithesh%20V%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Data Science & AI Engineer | Full-Stack Developer | ML Research Enthusiast</h3>
+<h3 align="center">Data Science | Full-Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:rithesh.reddy22@st.niituniversity.in">
@@ -102,18 +102,6 @@ I focus on building **scalable, secure, and production-ready applications** that
 
 - **White House Captain – NIIT University**  
   Hosted and managed inter-house events  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritheshvreddy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshvreddy&theme=tokyonight" />
-</p>
 
 ---
 
