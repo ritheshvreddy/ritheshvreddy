@@ -5,18 +5,6 @@
 
 <h3 align="center">Data Science | Full-Stack Developer | AI & ML Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:rithesh.reddy22@st.niituniversity.in">
-    <img src="https://img.shields.io/badge/Email-Professional-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github">
-  </a>
-</p>
-
 ---
 
 ## 👋 About Me
