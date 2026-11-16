@@ -195,7 +195,7 @@ I'm always interested in connecting with developers, engineers, and people worki
   </a>
 </p>
 
-**Open to opportunities in Software Engineering, Full-Stack Development, AI/ML, Generative AI, and related technology roles.**
+**Open to opportunities in Product Engineering, Full-Stack Development, AI/ML, Generative AI, and related technology roles.**
 
 ---
 
