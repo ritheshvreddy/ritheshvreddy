@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rithesh%20V%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<h3 align="center">Software Engineering | AI & ML | Generative AI | Full-Stack Development</h3>
+<h3 align="center">Associate, Products @ CENTA®</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Data%20Science-blue?style=flat-square" />
@@ -35,7 +35,7 @@ I'm particularly interested in exploring the intersection of software engineerin
 
 ### Centre for Teacher Accreditation (CENTA®) Pvt. Ltd.
 
-**Product Intern | Bengaluru, India**
+**Associate, Products | Bengaluru, India**
 
 *February 2026 – August 2026*
 
@@ -180,7 +180,7 @@ I'm particularly interested in exploring the intersection of software engineerin
 
 I'm always interested in connecting with developers, engineers, and people working on interesting technology.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ritheshvreddy/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -189,6 +189,9 @@ I'm always interested in connecting with developers, engineers, and people worki
   </a>
   <a href="https://github.com/ritheshvreddy">
     <img src="https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ritheshvreddy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
